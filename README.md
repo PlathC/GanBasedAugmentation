@@ -1,6 +1,6 @@
 # GAN Augmented CNN
 
-This repos host the code used to artificially extend the [Hyper-Kvasir dataset](https://datasets.simula.no/hyper-kvasir/) 
+This repos hosts the code used to artificially extend the [Hyper-Kvasir dataset](https://datasets.simula.no/hyper-kvasir/) 
 in order to improve classification performance.
 
 ## Notebooks
