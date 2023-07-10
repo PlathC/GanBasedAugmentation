@@ -1,7 +1,21 @@
 # GAN Augmented CNN
 
-This repos hosts the code used to artificially extend the [Hyper-Kvasir dataset](https://datasets.simula.no/hyper-kvasir/) 
+This repos hosts the code of our paper *Class-aware data augmentation by GAN specialisation to improve endoscopic images classification* where we artificially extend the [Hyper-Kvasir dataset](https://datasets.simula.no/hyper-kvasir/) 
 in order to improve classification performance.
+
+If you find this code useful and use it for your own production, please cite the following paper:
+```bibtex
+@inproceedings{PlateauHolleville2022,
+  doi = {10.1109/bhi56158.2022.9926846},
+  url = {https://doi.org/10.1109/bhi56158.2022.9926846},
+  year = {2022},
+  month = sep,
+  publisher = {{IEEE}},
+  author = {Cyprien Plateau-Holleville and Yannick Benezeth},
+  title = {Class-aware data augmentation by {GAN} specialisation to improve endoscopic images classification},
+  booktitle = {2022 {IEEE}-{EMBS} International Conference on Biomedical and Health Informatics ({BHI})}
+}
+```
 
 ## Notebooks
 
